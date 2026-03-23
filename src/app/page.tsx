@@ -70,7 +70,7 @@ export default function LandingPage() {
           handle: "@mariana_s",
           testimonial: "Pela primeira vez na vida, senti segurança e zero dor no dentista. A Dra. Daniella é incrível!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg?_wi=1",
           imageAlt: "Mariana Silva",
         },
         {
@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@carlos_h",
           testimonial: "Um tratamento humanizado que transformou minha experiência. O resultado estético superou todas as expectativas!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport-terminal_107420-85070.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport-terminal_107420-85070.jpg?_wi=1",
           imageAlt: "Carlos Henrique",
         },
         {
@@ -86,7 +86,7 @@ export default function LandingPage() {
           handle: "@anapaula.c",
           testimonial: "Recomendo a todos que buscam excelência e um ambiente que realmente se importa com o paciente. Nota 10!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-woman-smiling-touching-clean-glowing-skin-gazing-away-promotion-text-daydreaming-concept-beauty-skincare-white-wall_176420-40372.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-woman-smiling-touching-clean-glowing-skin-gazing-away-promotion-text-daydreaming-concept-beauty-skincare-white-wall_176420-40372.jpg?_wi=1",
           imageAlt: "Ana Paula",
         },
         {
@@ -94,7 +94,7 @@ export default function LandingPage() {
           handle: "@joao.p",
           testimonial: "Encontrei a confiança que precisava para cuidar do meu sorriso. Dra. Daniella e sua equipe são excepcionais.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-posing-with-copy-space_23-2149411419.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-posing-with-copy-space_23-2149411419.jpg?_wi=1",
           imageAlt: "João Pereira",
         },
       ]}
@@ -185,7 +185,7 @@ export default function LandingPage() {
           quote: "Eu tinha pavor de dentista, mas a Dra. Daniella e sua equipe me acolheram de uma forma que nunca imaginei. Hoje, amo ir ao dentista e meu sorriso é outro!",
           name: "Sofia Almeida",
           role: "Designer Gráfica",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg?_wi=2",
           imageAlt: "Sofia Almeida",
         },
         {
@@ -194,7 +194,7 @@ export default function LandingPage() {
           quote: "A atenção aos detalhes e o carinho com que sou tratado em cada consulta são incomparáveis. É uma clínica de luxo com alma humana.",
           name: "Ricardo Fernandes",
           role: "Empresário",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport-terminal_107420-85070.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport-terminal_107420-85070.jpg?_wi=2",
           imageAlt: "Ricardo Fernandes",
         },
         {
@@ -203,7 +203,7 @@ export default function LandingPage() {
           quote: "Fiz minhas lentes de contato dental e o resultado ficou perfeito, super natural! A Dra. Daniella é uma artista, e o atendimento, impecável.",
           name: "Isabela Costa",
           role: "Advogada",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-woman-smiling-touching-clean-glowing-skin-gazing-away-promotion-text-daydreaming-concept-beauty-skincare-white-wall_176420-40372.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-woman-smiling-touching-clean-glowing-skin-gazing-away-promotion-text-daydreaming-concept-beauty-skincare-white-wall_176420-40372.jpg?_wi=2",
           imageAlt: "Isabela Costa",
         },
         {
@@ -212,7 +212,7 @@ export default function LandingPage() {
           quote: "Minha família e eu somos pacientes há anos e sempre recebemos o melhor em cuidado preventivo. A equipe é super atenciosa e competente.",
           name: "Gustavo Mendes",
           role: "Engenheiro",
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-posing-with-copy-space_23-2149411419.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-posing-with-copy-space_23-2149411419.jpg?_wi=2",
           imageAlt: "Gustavo Mendes",
         },
         {
@@ -221,7 +221,7 @@ export default function LandingPage() {
           quote: "Desde a primeira consulta, senti que estava no lugar certo. A Dra. Daniella realmente entende e sabe como transformar a experiência do dentista.",
           name: "Carolina Santos",
           role: "Professora",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg?_wi=3",
           imageAlt: "Carolina Santos",
         },
       ]}
