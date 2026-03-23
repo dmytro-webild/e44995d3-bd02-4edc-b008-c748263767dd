@@ -221,7 +221,7 @@ export default function LandingPage() {
           quote: "Desde a primeira consulta, senti que estava no lugar certo. A Dra. Daniella realmente entende e sabe como transformar a experiência do dentista.",
           name: "Carolina Santos",
           role: "Professora",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg?_wi=3",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774286731530-3dv63uip.png",
           imageAlt: "Carolina Santos",
         },
       ]}
