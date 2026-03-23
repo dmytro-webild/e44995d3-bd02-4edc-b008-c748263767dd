@@ -276,7 +276,7 @@ export default function LandingPage() {
       tag="Entre em Contato"
       title="Agende Sua Consulta com a Dra. Daniella Montenegro"
       description="Pronto para transformar seu sorriso em um ambiente seguro e acolhedor? Fale conosco para agendar sua consulta ou tirar suas dúvidas. Estamos esperando por você!"
-      imageSrc="http://img.b2bpic.net/free-photo/female-realtor-with-medical-mask-inviting-couple-see-new-house_23-2148895434.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774282738392-ekttu917.jpg"
       imageAlt="Exterior moderno da clínica Sobreira Odontologia à noite"
       mediaAnimation="opacity"
       mediaPosition="left"
