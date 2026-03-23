@@ -104,7 +104,7 @@ export default function LandingPage() {
           href: "#contact",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/beautiful-girl-dentist_1157-18591.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774284169921-23cdv0y9.jpg"
       imageAlt="Dentista Dra. Daniella Montenegro confortando paciente em uma clínica de luxo."
       mediaAnimation="opacity"
     />
@@ -146,11 +146,11 @@ export default function LandingPage() {
           title: "Humanização do Tratamento",
           description: "Protocolos personalizados para pacientes com ansiedade e trauma, garantindo um ambiente seguro e acolhedor em cada visita.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-vector/medical-booking-application-template_23-2148578015.jpg",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774283882830-z9sg0w28.jpg",
             imageAlt: "Tela de celular mostrando um plano de tratamento dental",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/fitness-woman-using-mobile-phone_23-2148207418.jpg",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774283789493-gdll696u.jpg",
             imageAlt: "Tela de celular mostrando um aplicativo de relaxamento para pacientes",
           },
         },
@@ -159,11 +159,11 @@ export default function LandingPage() {
           title: "Odontologia Estética Avançada",
           description: "Transforme seu sorriso com as técnicas mais modernas em clareamento, lentes de contato dental e alinhadores invisíveis, para resultados naturais e deslumbrantes.",
           phoneOne: {
-            imageSrc: "http://img.b2bpic.net/free-photo/close-up-smiley-dentist-patient_23-2149164296.jpg",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774283976008-27feomx6.jpg",
             imageAlt: "Close-up de um sorriso perfeito após tratamento estético",
           },
           phoneTwo: {
-            imageSrc: "http://img.b2bpic.net/free-photo/metal-dental-medical-equipment-tools_633478-93.jpg",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774284152606-r3tl47n9.jpg",
             imageAlt: "Dentista explicando o procedimento de clareamento dental ao paciente",
           },
         },
