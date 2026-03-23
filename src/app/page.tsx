@@ -185,7 +185,7 @@ export default function LandingPage() {
           quote: "Eu tinha pavor de dentista, mas a Dra. Daniella e sua equipe me acolheram de uma forma que nunca imaginei. Hoje, amo ir ao dentista e meu sorriso é outro!",
           name: "Sofia Almeida",
           role: "Designer Gráfica",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-smiling-with-thumb-up-business-card_1187-3166.jpg?_wi=2",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774287328223-aatp7axj.jpg",
           imageAlt: "Sofia Almeida",
         },
         {
