@@ -289,7 +289,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="http://img.b2bpic.net/free-photo/living-room-with-modern-beautiful-decoration_181624-30650.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774284965975-147zx2fc.jpg"
       imageAlt="Interior luxuoso da clínica Sobreira Odontologia"
       columns={[
         {
