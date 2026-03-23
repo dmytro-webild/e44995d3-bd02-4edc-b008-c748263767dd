@@ -117,13 +117,13 @@ export default function LandingPage() {
       metrics={[
         {
           icon: Heart,
-          label: "Pacientes Acolhidos",
-          value: "100%",
+          label: "Avaliações 5 estrelas ",
+          value: "50+ ",
         },
         {
           icon: Activity,
           label: "Anos de Experiência",
-          value: "15+",
+          value: "25+",
         },
         {
           icon: Award,
