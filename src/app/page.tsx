@@ -185,7 +185,7 @@ export default function LandingPage() {
           quote: "Eu tinha pavor de dentista, mas a Dra. Daniella e sua equipe me acolheram de uma forma que nunca imaginei. Hoje, amo ir ao dentista e meu sorriso é outro!",
           name: "Sofia Almeida",
           role: "Designer Gráfica",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774287328223-aatp7axj.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774378277602-n6tx7ysx.png",
           imageAlt: "Sofia Almeida",
         },
         {
@@ -194,7 +194,7 @@ export default function LandingPage() {
           quote: "A atenção aos detalhes e o carinho com que sou tratado em cada consulta são incomparáveis. É uma clínica de luxo com alma humana.",
           name: "Ricardo Fernandes",
           role: "Empresário",
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport-terminal_107420-85070.jpg?_wi=2",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774287473940-5amqhk3s.jpg",
           imageAlt: "Ricardo Fernandes",
         },
         {
