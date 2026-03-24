@@ -184,7 +184,7 @@ export default function LandingPage() {
           title: "Medo superado, sorriso renovado!",
           quote: "Eu tinha pavor de dentista, mas a Dra. Daniella e sua equipe me acolheram de uma forma que nunca imaginei. Hoje, amo ir ao dentista e meu sorriso é outro!",
           name: "Sofia Almeida",
-          role: "Designer Gráfica",
+          role: "",
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774378277602-n6tx7ysx.png",
           imageAlt: "Sofia Almeida",
         },
