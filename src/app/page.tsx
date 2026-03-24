@@ -202,7 +202,7 @@ export default function LandingPage() {
           title: "Resultados estéticos impecáveis",
           quote: "Fiz minhas lentes de contato dental e o resultado ficou perfeito, super natural! A Dra. Daniella é uma artista, e o atendimento, impecável.",
           name: "Isabela Costa",
-          role: "Advogada",
+          role: "",
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774379277619-h6njro44.png",
           imageAlt: "Isabela Costa",
         },
