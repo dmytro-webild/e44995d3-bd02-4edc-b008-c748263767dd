@@ -83,7 +83,7 @@ export default function LandingPage() {
         },
         {
           name: "Ana Paula",
-          handle: "@anapaula.c",
+          handle: " ",
           testimonial: "Recomendo a todos que buscam excelência e um ambiente que realmente se importa com o paciente. Nota 10!",
           rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774381764354-mfrt3idh.png",
