@@ -211,7 +211,7 @@ export default function LandingPage() {
           title: "Cuidado preventivo de excelência",
           quote: "Minha família e eu somos pacientes há anos e sempre recebemos o melhor em cuidado preventivo. A equipe é super atenciosa e competente.",
           name: "Gustavo Mendes",
-          role: "Engenheiro",
+          role: "",
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774379590290-d9x6gquc.png",
           imageAlt: "Gustavo Mendes",
         },
