@@ -75,7 +75,7 @@ export default function LandingPage() {
         },
         {
           name: "Carlos Henrique",
-          handle: "@carlos_h",
+          handle: " ",
           testimonial: "Um tratamento humanizado que transformou minha experiência. O resultado estético superou todas as expectativas!",
           rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774382707682-nl2eya0h.png",
