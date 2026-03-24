@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@carlos_h",
           testimonial: "Um tratamento humanizado que transformou minha experiência. O resultado estético superou todas as expectativas!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/smiling-businessman-standing-airport-terminal_107420-85070.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774382707682-nl2eya0h.png",
           imageAlt: "Carlos Henrique",
         },
         {
