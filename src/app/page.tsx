@@ -94,7 +94,7 @@ export default function LandingPage() {
           handle: "@joao.p",
           testimonial: "Encontrei a confiança que precisava para cuidar do meu sorriso. Dra. Daniella e sua equipe são excepcionais.",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-posing-with-copy-space_23-2149411419.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774381916560-3kcgube5.jpg",
           imageAlt: "João Pereira",
         },
       ]}
