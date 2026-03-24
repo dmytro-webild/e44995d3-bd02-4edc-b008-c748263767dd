@@ -194,7 +194,7 @@ export default function LandingPage() {
           quote: "A atenção aos detalhes e o carinho com que sou tratado em cada consulta são incomparáveis. É uma clínica de luxo com alma humana.",
           name: "Ricardo Fernandes",
           role: "Empresário",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774287473940-5amqhk3s.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774378874598-7iu22986.png",
           imageAlt: "Ricardo Fernandes",
         },
         {
