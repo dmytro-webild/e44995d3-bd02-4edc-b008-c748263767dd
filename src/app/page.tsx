@@ -91,7 +91,7 @@ export default function LandingPage() {
         },
         {
           name: "João Pereira",
-          handle: "@joao.p",
+          handle: "",
           testimonial: "Encontrei a confiança que precisava para cuidar do meu sorriso. Dra. Daniella e sua equipe são excepcionais.",
           rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774381916560-3kcgube5.jpg",
