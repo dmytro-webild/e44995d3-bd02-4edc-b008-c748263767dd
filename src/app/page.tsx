@@ -86,7 +86,7 @@ export default function LandingPage() {
           handle: "@anapaula.c",
           testimonial: "Recomendo a todos que buscam excelência e um ambiente que realmente se importa com o paciente. Nota 10!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-young-woman-smiling-touching-clean-glowing-skin-gazing-away-promotion-text-daydreaming-concept-beauty-skincare-white-wall_176420-40372.jpg?_wi=1",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774381764354-mfrt3idh.png",
           imageAlt: "Ana Paula",
         },
         {
