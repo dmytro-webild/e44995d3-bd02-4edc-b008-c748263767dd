@@ -67,7 +67,7 @@ export default function LandingPage() {
       testimonials={[
         {
           name: "Mariana Silva",
-          handle: "@mariana_s",
+          handle: " ",
           testimonial: "Pela primeira vez na vida, senti segurança e zero dor no dentista. A Dra. Daniella é incrível!",
           rating: 5,
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BLvCwtmDhv2tJbb5Oor7FmvnW5/uploaded-1774382262066-zxgme09a.png",
